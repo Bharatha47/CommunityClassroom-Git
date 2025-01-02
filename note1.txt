@@ -1,4 +1,6 @@
 sample 1
 
 =============
-added new line 
+added new line
+=========
+added 2
